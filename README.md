@@ -1,8 +1,8 @@
-# Diccionario-DevOps 
+# Dictionary DevOps 
 
-Este es un repositorio creado con el fin de reunir y definir conceptos basicos de la metodologia DevOps
+This is a repository created in order to gather and define basic concepts of the DevOps methodology.
 
-# Contenido
+# Content
 ## 1. GIT
 * ### Git init
 * ### Git clone
@@ -27,16 +27,16 @@ Este es un repositorio creado con el fin de reunir y definir conceptos basicos d
 * ### mkdir
 * ### cat
 
-## 3. Servicios en la nube
+## 3. Cloud cmputing
 * ### AWS
 * ### AZURE
 * ### GCP
 
-## 4. Metodologia
+## 4. Methodology
 * ### SCRUM
 * #### Backlog
 
-## 5. Servicios de automatización
+## 5. services of automation
 * ### Docker
 * ### SCRUM
 * ### SonarQube
@@ -45,10 +45,10 @@ Este es un repositorio creado con el fin de reunir y definir conceptos basicos d
 * ### Owasp
 * ### Maven
 
-## 5. Microservicios
+## 5. Microservices
 
 ## 6. DevSecOps
 
-## 7. Despliegue
+## 7. Deployment
 * ### continuous integration
 * ### continuous delivery
