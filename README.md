@@ -1,3 +1,10 @@
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://i0.wp.com/geniusitt.com/wp-content/uploads/2018/08/DevOpstools-1.png?fit=1024%2C543&ssl=1" alt="DevOps" width="500px">
+</p>
+</div>
+
 # Dictionary DevOps 
 
 This is a repository created in order to gather and define basic concepts of the DevOps methodology.
