@@ -1,3 +1,9 @@
+<div>
+<p style = 'text-align:center;'>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4RSUi4LD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3kfoy92ty0sds2a0nz4h.gif" alt="Git" width="400px">
+</p>
+</div>
+
 # Definition
 It is a work environment, which allows to control the versions of a developed software, keeping record of all the changes made.
 It also allows several workers to develop the same project, defining a work strategy.

@@ -1,3 +1,10 @@
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://learn.microsoft.com/es-es/azure/cloud-adoption-framework/ready/considerations/media/devops-toolchain-azure-devops.png" alt="DevOps" width="600px">
+</p>
+</div>
+
 # Dictionary DevOps 
 
 This is a repository created in order to gather and define basic concepts of the DevOps methodology.
