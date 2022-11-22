@@ -24,7 +24,7 @@ Is the delivery of on-demand computing services over the internet on a pay-as-yo
 #### Platform as a service "PaaS: "If your company requires a platform for building software products, pick platform as a service"
 #### Software as a Services "SaaS: "If your bussines doesn't want to maintain any it equipment, then choose software as a service"
 
-* ### AWS
+* ### [AWS](/Cloud-Computing/aws.md)
 * ### AZURE
 * ### GCP
 
