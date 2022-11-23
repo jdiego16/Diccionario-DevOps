@@ -1,54 +1,21 @@
-# Diccionario-DevOps 
 
-Este es un repositorio creado con el fin de reunir y definir conceptos basicos de la metodologia DevOps
+<div>
+<p style = 'text-align:center;'>
+<img src="https://i0.wp.com/geniusitt.com/wp-content/uploads/2018/08/DevOpstools-1.png?fit=1024%2C543&ssl=1" alt="DevOps" width="500px">
+</p>
+</div>
 
-# Contenido
-## 1. GIT
-* ### Git init
-* ### Git clone
-* ### Git add
-* ### Git commit
-* ### Git branch
-* ### Git checkout
-* ### Git remote
-* ### Pull request
-* ### Git flow
-* ### Git config
-* ### Git .ignore
-* ### Git fork
+# Dictionary DevOps 
 
-## 2. Linux
-* ### bash
-* ### cd
-* ### ls
-* ### touch
-* ### rm
-* ### pwd
-* ### mkdir
-* ### cat
+This is a repository created in order to gather and define basic concepts of the DevOps methodology.
 
-## 3. Servicios en la nube
-* ### AWS
-* ### AZURE
-* ### GCP
-
-## 4. Metodologia
-* ### SCRUM
-* #### Backlog
-
-## 5. Servicios de automatización
-* ### Docker
-* ### SCRUM
-* ### SonarQube
-* ### Terraform
-* ### Nexus
-* ### Owasp
-* ### Maven
-
-## 5. Microservicios
-
-## 6. DevSecOps
-
-## 7. Despliegue
-* ### continuous integration
-* ### continuous delivery
+# Content
+ 
+## 1. [GIT](/Git/content.md)
+## 2. [Linux](/Linux/content.md)
+## 3. [Cloud computing](/Cloud-Computing/content.md)
+## 4. [Methodology](/methodology/content.md)
+## 5. [services of automation](/automation/content.md)
+## 6. [Microservices](/microservices/content.md)
+## 7. [DevSecOps](/DevSecOps/content.md)
+## 8. [Deployment](/deployment/content.md)
