@@ -8,6 +8,13 @@
 
 >is an open source platform for continuous inspection of code quality through different static source code analysis tools. It provides metrics that help improve the quality of a program's code by allowing development teams to track and detect bugs and security vulnerabilities to keep the code clean.
 
+## static analysis
+> is performed without running the software
+## dynamic analysis
+> it needs to run the software to be able to check its behavior at runtime
+
+
+
 ## common terms
 * Quality Gate: 
 > are a series of conditions that the project under analysis must meet in order to proceed to the next stage.
@@ -32,13 +39,7 @@
 * plugin R
 * Quality profiles
 * java version 11
+
 ## installation
 
-1. download Sonarqube and SonarScaner from the official website (https://www.sonarqube.org/downloads/), also download plugins from Github (https://github.com/SonarOpenCommunity/sonar-cxx/releases/tag/cxx-2.0.6).
-2. create the path to the pc disk location (C:\Sonar)
-3. Extract the resources in the created path
-4. open the location (C:\sonarsonarqube-x.x.x\windows-x86-64) from there run cmd.
-5. execute the command ./StartSonar.bat
-6. the default service runs on http://localhost:9000 and can be accessed on a web server
-7. default login parameters are user admin and password admin
-8. to install the plugins, you must copy the .jar files to the (C:\sonarsonarqube-x.x.x\extensions\plugins) and restart the service.
+>https://docs.sonarqube.org/latest/setup/install-server/
