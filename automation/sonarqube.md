@@ -32,6 +32,13 @@
 * analyzes the source code of more than 20 languages
 * installs a local server which can be configured with different databases to analyze large amounts of code.
 
+## Instance components
+><div>
+<p style = 'text-align:center;'>
+<img src="https://docs.sonarqube.org/9.7/images/SQ-instance-components.png" alt="sonar1" width="700px">
+</p>
+</div>
+
 ## requirements
 * Sonarqube v.7.9.x
 * SonarScaner
