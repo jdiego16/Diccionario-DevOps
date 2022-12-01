@@ -53,3 +53,6 @@ It also allows several workers to develop the same project, defining a work stra
 >Is a file which contains the name of the files which git should ignore to avoid working with too much weight in the repositories.
 * ### Git fork
 >It is used to copy exactly a whole repository including its commits and existing branches, then you can work on it without affecting the source repository.
+
+* ### Git tag
+>are references that point to specific points in the git history, used to publish a marked version.
