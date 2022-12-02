@@ -50,3 +50,22 @@
 ## installation
 
 >https://docs.sonarqube.org/latest/setup/install-server/
+
+
+## rules
+>SonarQube evalua el codigo fuente con un conjunto de reglas, las cuales estan basadas en estandares de programacion y buenas practicas. hay tres tipos de reglas:
+
+* Code Smells (bad practices)
+* Bug (code errors)
+* Vulnerability ( errors affecting security)
+
+
+the rules page is the entry point where the default rules for each language are stored or you can also create other templates based on the ones already established.
+
+By default SonarQube installs a set of rules that apply to the commonly used languages.
+
+With these default rules, the scanner analyzes the code in order to highlight potential errors.
+
+## Quality profiles
+>They define the set of rules to be applied during code analysis. Each project has a quality profile set for each supported language. When analyzing a project SonarQube determines which languages are used and uses the active quality profile for each of those languages in that specific project.
+
