@@ -74,12 +74,12 @@ example of pipeline script or jenkinsfile
 }
 </code></pre>
 
-* 1. the block is declared with the expression "pipeline" containing all the instructions to execute.
-* 2. In the declarative "agent" an executor is assigned on any of the available nodes.
-* 3. is a scenario which contains a series of steps to be performed.
-* 4. this declarative contains the steps to perform.
-* 5. is a pipeline step which executes the command in the shell.
-* 6. is another step taken by the JUnit plugin to add a test report.
+* (1). the block is declared with the expression "pipeline" containing all the instructions to execute.
+* (2). In the declarative "agent" an executor is assigned on any of the available nodes.
+* (3). is a scenario which contains a series of steps to be performed.
+* (4). this declarative contains the steps to perform.
+* (5). is a pipeline step which executes the command in the shell.
+* (6). is another step taken by the JUnit plugin to add a test report.
 ## installation
 >https://www.jenkins.io/doc/book/installing/
 
