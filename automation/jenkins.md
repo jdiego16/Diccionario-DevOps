@@ -19,6 +19,9 @@
 >It is a communication system between applications, providing a simple solution for the exchange of data between web applications.
 It works by sending http requests defined by the user, it sends a request.
 
+## Jobs
+>is the main unit of Jenkins, which is in charge of planning and executing tasks defined by a user. For example, a job would be in charge of: downloading code from repositories, building, testing and monitoring its execution.
+
 # First steps
 this is the main screen of the jenkins platform
 <div>
@@ -34,16 +37,18 @@ there you start creating a new project.
 </p>
 </div>
 
+There you can see the different types of Jobs that can be created.
 
+* Freestyle proyect
+* pipeline
+* multi-configuration project
+* folder
+* multibranch pipelinw
+* organization folder
 
-
-## Jobs
->is the main unit of Jenkins, which is in charge of planning and executing tasks defined by a user. For example, a job would be in charge of: downloading code from repositories, building, testing and monitoring its execution.
 
 ## pipeline
-are a series of add-ons that allow the integration of elements related to continuous delivery.
-
-
+are a series of add-ons that allow the integration of elements related to continuous delivery,the parameters of its operation are written in a script under a defined syntax, you can also have files called "jenkinsfile" where the script of the developed pipeline will be contained.
 
 example of pipeline script or jenkinsfile
 
