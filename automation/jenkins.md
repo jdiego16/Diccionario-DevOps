@@ -22,7 +22,7 @@
 This is the 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://github.com/jdiego16/Diccionario-DevOps/blob/Feature/images/Jenkins/Imagen1.jpg" alt="jenkins" width="400px">
+<img src="https://github.com/jdiego16/Diccionario-DevOps/blob/Feature/images/Jenkins/Imagen1.jpg" alt="jenkins" width="600px">
 </p>
 </div>
 
