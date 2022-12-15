@@ -8,7 +8,7 @@
 >is an open source server for continuous integration. It is a tool used to compile and test software projects continuously, making it easier for developers to integrate changes in a project and deliver new versions to users. it can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.
 
 
-## continuous integration
+## Continuous integration
 >is a software development practice whereby developers merge code changes into a central repository on a periodic basis, after which automatic releases and tests are run. 
 
 ## plugins
