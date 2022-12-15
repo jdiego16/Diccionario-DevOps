@@ -43,7 +43,7 @@ There you can see the different types of Jobs that can be created.
 * pipeline
 * multi-configuration project
 * folder
-* multibranch pipelinw
+* multibranch pipeline
 * organization folder
 
 
