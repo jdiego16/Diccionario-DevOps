@@ -39,12 +39,12 @@ there you start creating a new project.
 
 There you can see the different types of Jobs that can be created.
 
-* Freestyle proyect
-* pipeline
-* multi-configuration project
-* folder
-* multibranch pipeline
-* organization folder
+* Freestyle proyect : These are the most basic and flexible type of jobs in Jenkins. They can be used to build, test, and deploy software projects, and they can be configured to execute a wide range of tasks using various build tools and scripts.
+* pipeline: allow you to define a series of build, test, and deployment steps in a single script, which makes it easier to manage complex, multi-step build processes.
+* multi-configuration project: allows you to run a build or test job multiple times with different combinations of input values.
+* folder: allow you to organize other jobs into folders, which can be helpful for managing large numbers of jobs and keeping them organized.
+* multibranch pipeline: are designed to work with multiple branches of a code repository. They allow you to automatically create a pipeline for each branch in your repository and run the pipeline whenever changes are pushed to the branch.
+* organization folder: allows you to group and manage other jobs and folders within a Jenkins instance. Organization folders are used to organize and manage the Jenkins jobs and folders in a logical and hierarchical manner.
 
 
 ## pipeline
