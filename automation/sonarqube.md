@@ -67,4 +67,4 @@ With these default rules, the scanner analyzes the code in order to highlight po
 
 ## installation
 
->https://docs.sonarqube.org/latest/setup/install-server/
+>https://docs.sonarqube.org/latest/setup/install-server/ 
