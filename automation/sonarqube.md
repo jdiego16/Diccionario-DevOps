@@ -47,11 +47,6 @@
 * Quality profiles
 * java version 11
 
-## installation
-
->https://docs.sonarqube.org/latest/setup/install-server/
-
-
 ## rules
 >SonarQube evalua el codigo fuente con un conjunto de reglas, las cuales estan basadas en estandares de programacion y buenas practicas. hay tres tipos de reglas:
 
@@ -69,3 +64,7 @@ With these default rules, the scanner analyzes the code in order to highlight po
 ## Quality profiles
 >They define the set of rules to be applied during code analysis. Each project has a quality profile set for each supported language. When analyzing a project SonarQube determines which languages are used and uses the active quality profile for each of those languages in that specific project.
 
+
+## installation
+
+>https://docs.sonarqube.org/latest/setup/install-server/
